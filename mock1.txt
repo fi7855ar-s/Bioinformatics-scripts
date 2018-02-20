@@ -1,1 +1,6 @@
 This is a mock file 1
+#<<<<<<< HEAD
+#=======
+add anaoter line to this stupid file
+third line added
+#>>>>>>> kvist
